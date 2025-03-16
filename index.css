@@ -1,0 +1,162 @@
+body {
+    background: #0d1117;
+    margin: 0px;
+    font-family: tahoma, sans-serif;
+}
+
+.menu-section {
+    margin: 60px 0px 70px 50px;
+    display: flex;
+    width: 400px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.menu-option {
+    color: #f0f4f7;
+    font-weight: 200;
+    font-size: 15px;
+    margin: 0px;
+    cursor: pointer;
+}
+
+#option-download {
+    color: #80ccff;
+}
+
+#menu-logo {
+    color: white;
+    font-weight: 900;
+    font-size: 18px;
+    width: 74px;
+}
+
+#menu-logo:hover {
+    color: #80ccff;
+}
+
+.menu-option:hover {
+    color:#80ccff;
+    text-decoration: underline;
+}
+
+#main-heading {
+    color: #f0f4f7;
+    margin: 0px 0px 0px 50px;
+    font-weight: 200;
+    font-size: 45px;
+}
+
+#sub-heading {
+    margin: 10px 100px 30px 50px;
+    color:#777a7c;
+    font-weight: 200;
+    font-size: 18px;
+}
+
+#download-button {
+    background: #f7f9fa;
+    border: none;
+    margin: 0px 0px 0px 50px;
+    font-weight: 200;
+    font-size: 18px;
+    padding: 15px 20px;
+    color: #0b0f15;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+#download-button:hover {
+    background: #f0f4f7;
+}
+
+
+.heading-1 {
+    color: #f0f4f7;
+    font-weight: 900;
+    font-size: 16px;
+    margin: 0px 0px 10px 0px;
+}
+
+.heading-2 {
+    color: #777a7c;
+    font-weight: 200;
+    font-size: 15px;
+    margin: 0;
+}
+
+.link {
+    color: #80ccff;
+    font-weight: 200;
+    font-size: 12px;
+    text-decoration: underline;
+    cursor: pointer;
+    margin: 0px;
+}
+
+.link:hover {
+    text-decoration: none;
+}
+
+.h2-h3-group-layer {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 0px 0px 10px 0px;
+}
+
+.layer-2 {
+    width: 335px;
+    height: 130px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.layer-1 {
+    border-radius: 15px;
+    background: #161b22;
+    padding: 40px 30px;
+    margin: 80px 0px 0px 0px;
+}
+
+.main-layer {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 0px 50px 20px 50px;
+}
+
+.term-main {
+    color: #f0f4f7;
+    font-weight: 200;
+    font-size: 12px;
+    margin: 0px 0px 80px 50px;
+}
+
+
+
+.sep {
+    width: 100px;
+    background:rgb(61, 61, 61);
+    display: block;
+    padding: 0.1px 0px;
+    margin: 0px auto 30px auto;
+}
+
+.art-option {
+    margin: 0px 10px 15px 10px;
+}
+
+.articles {
+    display: flex;
+    justify-content: center;
+}
+
+#copyright {
+    color: #777a7c;
+    font-weight: 200;
+    font-size: 12px;
+    text-align: center;
+    margin: 0px 0px 60px 0px;
+}
