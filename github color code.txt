@@ -81,3 +81,37 @@ Light shades (text and highlights):
 #f6f8fa (off-white)
 #f7f9fa (light grayish white)
 These colors contribute to the dark theme of GitHub Desktop's UI, balancing readability with contrast.
+
+
+
+GitHub Desktop
+Download
+Release Notes
+Help
+Download GitHub Desktop
+Focus on what matters instead of fighting with Git. Whether you're new to Git or a seasoned user, GitHub Desktop simplifies your development workflow.
+
+Download for Windows (64bit)
+Try beta features and help improve future releases
+Experience the latest features and bug fixes before the are released.
+Check out Beta
+
+Prefer the MSI?
+Need to package to install across your organization?
+Download for Windows (MSI)
+
+Mac?
+Need to download for macOS?
+Download for macOS
+
+By downloading, you agree to the Open Source Applications Terms.
+
+Terms
+
+Privacy Policy
+
+EULA
+
+Release Notes
+
+© 2025 GitHub, Inc. All rights reserved.
